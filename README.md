@@ -5,6 +5,9 @@ This repository hosts the Exploratory Data Analysis (EDA) task conducted by Circ
 Key processes involved in this project include:
 
 Data Extraction
+
 Data Cleaning
+
 Exploratory Data Analysis
+
 Data Interpretation
